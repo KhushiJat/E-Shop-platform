@@ -7,7 +7,7 @@ A robust, full-stack enterprise-grade e-commerce and multi-category management p
 ## Application Overview & Homepage
 
 <div align="center">
-  <img src="./images/IMG1.png" alt="Homepage View" width="700">
+  <img src="./frontend/images/IMG1.png" alt="Homepage View" width="700">
   <p><em>Home page featuring dynamic category banners and product highlights.</em></p>
 </div>
 
@@ -18,7 +18,7 @@ A robust, full-stack enterprise-grade e-commerce and multi-category management p
 The platform supports a deeply nested multi-category inventory matrix structured across major verticals, complete with an interactive category dropdown menu:
 
 <div align="center">
-  <img src="./images/IMG4.png" alt="Category Dropdown Menu" width="700">
+  <img src="./frontend/images/IMG4.png" alt="Category Dropdown Menu" width="700">
   <p><em>Multi-level category dropdown supporting seamless user navigation.</em></p>
 </div>
 
@@ -46,12 +46,12 @@ The platform supports a deeply nested multi-category inventory matrix structured
 ## Product Showcase & Filtering
 
 <div align="center">
-  <img src="./images/IMG2.png" alt="Product Listing" width="700">
+  <img src="./frontend/images/IMG2.png" alt="Product Listing" width="700">
   <p><em>Product catalog displaying electronics with pricing and inventory actions.</em></p>
 </div>
 
 <div align="center">
-  <img src="./images/IMG3.png" alt="Filtered Products" width="700">
+  <img src="./frontend/images/IMG3.png" alt="Filtered Products" width="700">
   <p><em>Dynamic product filtering and sorting interface for groceries and essentials.</em></p>
 </div>
 
@@ -60,12 +60,12 @@ The platform supports a deeply nested multi-category inventory matrix structured
 ## Cart & Checkout Experience
 
 <div align="center">
-  <img src="./images/IMG7.png" alt="Shopping Cart" width="700">
+  <img src="./frontend/images/IMG7.png" alt="Shopping Cart" width="700">
   <p><em>Shopping cart management view calculating item totals and quantities.</em></p>
 </div>
 
 <div align="center">
-  <img src="./images/IMG8.png" alt="Secure Checkout and Payment" width="700">
+  <img src="./frontend/images/IMG8.png" alt="Secure Checkout and Payment" width="700">
   <p><em>Secure multi-step checkout pipeline supporting payment gateway integrations.</em></p>
 </div>
 
@@ -74,12 +74,12 @@ The platform supports a deeply nested multi-category inventory matrix structured
 ## About & Customer Support
 
 <div align="center">
-  <img src="./images/IMG5.png" alt="About Us Page" width="700">
+  <img src="./frontend/images/IMG5.png" alt="About Us Page" width="700">
   <p><em>About Us section detailing store mission and background.</em></p>
 </div>
 
 <div align="center">
-  <img src="./images/IMG6.png" alt="Contact Us Modal" width="700">
+  <img src="./frontend/images/IMG6.png" alt="Contact Us Modal" width="700">
   <p><em>Interactive Contact Us modal providing direct support channels and inquiry forms.</em></p>
 </div>
 
