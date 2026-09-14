@@ -123,7 +123,7 @@ The platform supports a deeply nested multi-category inventory matrix structured
 
 * **Frontend**: React (Vite), React Router, Context API / Redux State Store, Modern CSS.
 * **Backend**: Java, Spring Boot, Spring Security, Spring Data JPA (Hibernate).
-* **Database & Storage**: MySQL database backend, local file directory asset storage ![Checkout Pipeline](./frontend/images/IMG8.png).
+* **Database & Storage**: MySQL database backend, local file directory asset storage.
 * **API Documentation**: Swagger / OpenAPI integration.
 
 ---
