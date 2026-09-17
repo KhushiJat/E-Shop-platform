@@ -87,7 +87,7 @@ The platform supports a deeply nested multi-category inventory matrix structured
 
 ## Project Structure & Architecture
 
-### Frontend Architecture (`ecom-frontend`)
+### Frontend Architecture (`frontend`)
 * **`src/components/admin/`**: Administrative modules covering category management, dashboard stats, order tracking, product inventories, and seller oversight via `AdminLayout.jsx`.
 * **`src/components/auth/`**: Authentication interfaces including `Login.jsx` and `Register.jsx`.
 * **`src/components/cart/`**: Cart management components (`Cart.jsx`, `CartEmpty.jsx`, `ItemContent.jsx`, `SetQuantity.jsx`).
@@ -97,7 +97,7 @@ The platform supports a deeply nested multi-category inventory matrix structured
 * **`src/components/shared/`**: Reusable core components such as navigation bars, sidebars, modals (`DeleteModal.jsx`, `Modal.jsx`), input fields, loaders, and pagination.
 * **`src/store/`**: State management containers handling actions and reducers.
 
-### Backend Architecture (`SpringBoot-ecom`)
+### Backend Architecture (`backend`)
 * **`com.ecommerce.project.config`**: Core configuration classes for application beans, constants, Swagger/OpenAPI documentation, and WebMvc resource mappings.
 * **`com.ecommerce.project.controller`**: REST controllers exposing endpoints for addresses, analytics, authentication, shopping carts, categories, orders, and products.
 * **`com.ecommerce.project.exceptions`**: Global exception handler alongside custom exceptions (`APIException`, `ResourceNotFoundException`).
@@ -137,7 +137,7 @@ The platform supports a deeply nested multi-category inventory matrix structured
 * MySQL Server
 
 ### Frontend Setup
-1. Navigate to the frontend directory(ecom-frontend).
+1. Navigate to the frontend directory(frontend).
 2. Install project dependencies:
    ```bash
    npm install
