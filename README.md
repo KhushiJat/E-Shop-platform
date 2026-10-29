@@ -327,7 +327,7 @@ Licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile) · your.email@example.com
+**Khushi Jat**
+[GitHub](https://github.com/Khushijat) · [LinkedIn](https://linkedin.com/in/khushijat) · khushijat0710@gmail.com
 
 ⭐ If you found this project useful, please give it a star!
