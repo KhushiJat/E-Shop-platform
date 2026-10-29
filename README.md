@@ -43,7 +43,7 @@ E-Shop is a production-deployed e-commerce application. Customers can browse and
 
 | Cart | Stripe Payment |
 |------|----------------|
-| ![Cart](./frontend/images/Cart.png) | ![Stripe](./frontend/images/.png) |
+| ![Cart](./frontend/images/Cart.png) | ![Stripe](./frontend/images/Stripe.png) |
 
 | Admin Dashboard | Seller – Add Product |
 |-----------------|----------------------|
@@ -62,7 +62,7 @@ E-Shop is a production-deployed e-commerce application. Customers can browse and
 
 | Order Summary | Payment Success |
 |---------------|-----------------|
-| ![Order Summary](screenshots/order-summary.png) | ![Success](screenshots/payment-success.png) |
+| ![Order Summary](./frontend/images/OrderSummary.png) | ![Success](./frontend/images/PaymentSuccess.png) |
 
 | Admin – Products | Admin – Categories |
 |------------------|--------------------|
