@@ -47,34 +47,26 @@ E-Shop is a production-deployed e-commerce application. Customers can browse and
 
 | Admin Dashboard | Seller – Add Product |
 |-----------------|----------------------|
-| ![Dashboard](screenshots/admin-dashboard.png) | ![Seller Add Product](screenshots/seller-add-product.png) |
+| ![Dashboard](./frontend/images/AdminPanel.png) | ![Seller Add Product](./frontend/images/SellerPanel.png) |
 
 <details>
 <summary><b>View more screenshots</b></summary>
 
-| Login | View Product |
+| Login | Categories |
 |-------|--------------|
-| ![Login](./frontend/images/Screenshot 2026-10-29 192414.png) | ![View Product](screenshots/view-product.png) |
+| ![Login](./frontend/images/Login.png) | ![categories](./frontend/images/Categories.png) |
 
 | Checkout – Address | Checkout – Payment Method |
 |--------------------|---------------------------|
-| ![Address](screenshots/address.png) | ![Payment Method](./frontend/images/IMG8.png) |
+| ![Address](./frontend/images/Address.png) | ![Payment Method](./frontend/images/IMG8.png) |
 
 | Order Summary | Payment Success |
 |---------------|-----------------|
 | ![Order Summary](./frontend/images/OrderSummary.png) | ![Success](./frontend/images/PaymentSuccess.png) |
 
-| Admin – Products | Admin – Categories |
-|------------------|--------------------|
-| ![Admin Products](screenshots/admin-products.png) | ![Categories](screenshots/admin-categories.png) |
-
-| Seller Panel Access | About Page |
-|---------------------|------------|
-| ![Seller](screenshots/seller-menu.png) | ![About](./frontend/images/IMG5.png) |
-
-| About Page |
-|------------|
-| ![Contact](./frontend/images/IMG6.png) |
+|Contact Page | About Page |
+|------------|------------|
+| ![Contact](./frontend/images/IMG6.png) | ![About](./frontend/images/IMG5.png) |
 
 </details>
 
