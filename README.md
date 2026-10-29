@@ -39,7 +39,7 @@ E-Shop is a production-deployed e-commerce application. Customers can browse and
 
 | Home | Products & Filters |
 |------|--------------------|
-| ![Home](screenshots/home.png) | ![Products](screenshots/products.png) |
+| ![Home](./frontend/images/IMG1.png) | ![Products](screenshots/products.png) |
 
 | Cart | Stripe Payment |
 |------|----------------|
