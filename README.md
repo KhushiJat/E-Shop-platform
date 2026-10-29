@@ -54,7 +54,7 @@ E-Shop is a production-deployed e-commerce application. Customers can browse and
 
 | Login | View Product |
 |-------|--------------|
-| ![Login](screenshots/login.png) | ![View Product](screenshots/view-product.png) |
+| ![Login](./frontend/images/Screenshot 2026-10-29 192414.png) | ![View Product](screenshots/view-product.png) |
 
 | Checkout – Address | Checkout – Payment Method |
 |--------------------|---------------------------|
