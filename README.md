@@ -39,7 +39,7 @@ E-Shop is a production-deployed e-commerce application. Customers can browse and
 
 | Home | Products & Filters |
 |------|--------------------|
-| ![Home](./frontend/images/IMG1.png) | ![Products](screenshots/products.png) |
+| ![Home](./frontend/images/IMG1.png) | ![Products](./frontend/images/IMG3.png) |
 
 | Cart | Stripe Payment |
 |------|----------------|
@@ -58,7 +58,7 @@ E-Shop is a production-deployed e-commerce application. Customers can browse and
 
 | Checkout – Address | Checkout – Payment Method |
 |--------------------|---------------------------|
-| ![Address](screenshots/address.png) | ![Payment Method](screenshots/payment-method.png) |
+| ![Address](screenshots/address.png) | ![Payment Method](./frontend/images/IMG8.png) |
 
 | Order Summary | Payment Success |
 |---------------|-----------------|
@@ -70,7 +70,11 @@ E-Shop is a production-deployed e-commerce application. Customers can browse and
 
 | Seller Panel Access | About Page |
 |---------------------|------------|
-| ![Seller](screenshots/seller-menu.png) | ![About](screenshots/about.png) |
+| ![Seller](screenshots/seller-menu.png) | ![About](./frontend/images/IMG5.png) |
+
+| About Page |
+|------------|
+| ![Contact](./frontend/images/IMG6.png) |
 
 </details>
 
